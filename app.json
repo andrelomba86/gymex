@@ -1,11 +1,9 @@
 {
   "expo": {
-    "name": "gymex2",
-    "slug": "gymex2",
+    "name": "gymex",
+    "slug": "gymex",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"]
   },
-  "name": "gymex2"
+  "name": "gymex"
 }

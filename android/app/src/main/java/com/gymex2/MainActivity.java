@@ -1,4 +1,4 @@
-package com.gymex2;
+package com.gymex;
 
 import android.os.Build;
 import android.os.Bundle;
